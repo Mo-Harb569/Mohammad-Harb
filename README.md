@@ -5,7 +5,7 @@
 
 ---
 
-### 🌐 Connect with Me (تواصل معي)
+### 🌐 Connect with Me 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mohammad-harb-514b1a2b9">
@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 My Top Technical Skills (أبرز مهاراتي التقنية)
+### 💻 My Top Technical Skills 
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
